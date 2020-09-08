@@ -41,14 +41,25 @@ Sample screenshots
  
 ![Google Authenticator 2FA resut screen](/src/img/screenshot3.png)
 
+## How backend works 
+
+[![Demo Two-Factor Authentication for smart Contracts](https://img.youtube.com/vi/6Yh3rmcrKRc/0.jpg)](https://www.youtube.com/watch?v=6Yh3rmcrKRc "Demo Two-Factor Authentication for smart Contracts")
+
+
 ## How to install
 
 Install NodeJs version 12 or superior
 
 ### Steps to complete installation:
+
+In Remix https://remix.ethereum.org/
+* Create new file from src/contract/GoogleAuthenticatorPINCheck.sol 
+* Compile this smartcontract
+* Deploy it into Ethereum Ropsten testnet
+  
+Next steps: 
 * Download this repository
 * unzip downloaded file
-* Deploy src/contract/GoogleAuthenticatorPINCheck.sol to Ethereum Ropsten testnet
 * setup src/config.js file with contract address and ABI json from deployed contract
 * To install dependencies, run "npm install" command.
 * exec "npm install express"
