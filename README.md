@@ -23,7 +23,7 @@ https://docs.chain.link/docs/install-metamask#fund-your-address-with-ether
 3) Install Google Authenticator app for andriod tap here
 https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2 , for ios
 tap here https://apps.apple.com/es/app/google-authenticator/id388497605
-4) Tap this link https://digitalbridge.sismatech.com.ar:3000/
+4) Tap this link https://digitalbridge.sismatech.com.ar:3000/  (the demo is momentarily offline)
 5) Open Google Autenthicator app, tap plus button and scan QR code
 6) Copy the PIN code
 7) Tap the NEXT button
